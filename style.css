@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    box-sizing: 0;
+    padding: 0;
+   
+}
+#colorDisplay {
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    font-size: 17px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+#btn {
+    margin-bottom: 15px;
+    padding: 10px 20px;
+    font-size: 14px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+}
